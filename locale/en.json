@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Mail Channel",
+    "description": "Sidebar mail switch plus send/receive tools: when enabled, owner mail is delivered to the active conversation and follows conversation focus; mail can also be handled directly from any conversation."
+  }
+}
