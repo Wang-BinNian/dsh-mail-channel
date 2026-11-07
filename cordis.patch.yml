@@ -1,0 +1,5 @@
+# mail-channel bundle 补丁：把插件行插进 profile。
+# 发布版不带任何本机配置：数据目录/凭据/地址都走默认值或使用者自己的配置。
+- insert:
+    - id: mail-channel
+      name: 'dsh-mail-channel'
